@@ -129,8 +129,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataAccess\SecurityApp.DataAccess.csproj">
-      <Project>{eba7ef20-0d9d-4814-8204-19cd1e56db69}</Project>
+    <ProjectReference Include="..\SecurityApp.DataAccess\SecurityApp.DataAccess.csproj">
+      <Project>{EBA7EF20-0D9D-4814-8204-19CD1E56DB69}</Project>
       <Name>SecurityApp.DataAccess</Name>
     </ProjectReference>
     <ProjectReference Include="..\SecurityApp.Models\SecurityApp.Models.csproj">
