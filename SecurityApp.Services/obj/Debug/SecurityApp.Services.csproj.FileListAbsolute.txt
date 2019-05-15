@@ -17,3 +17,12 @@ C:\Users\Андрей\Downloads\SecurityApp\SecurityApp.Services\obj\Debug\Secur
 C:\Users\Андрей\Downloads\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Services.dll.config
 C:\Users\Андрей\Downloads\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Models.dll
 C:\Users\Андрей\Downloads\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Models.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Services.dll.config
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Services.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Services.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Services\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Models.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Models.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Services\obj\Debug\SecurityApp.Services.csprojResolveAssemblyReference.cache
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Services\obj\Debug\SecurityApp.Services.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Services\obj\Debug\SecurityApp.Services.pdb

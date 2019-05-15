@@ -10,3 +10,8 @@ C:\Users\Андрей\Downloads\SecurityApp\SecurityApp.Models\obj\Debug\Securit
 C:\Users\Андрей\Downloads\SecurityApp\SecurityApp.Models\obj\Debug\SecurityApp.Models.csproj.CoreCompileInputs.cache
 C:\Users\Андрей\Downloads\SecurityApp\SecurityApp.Models\obj\Debug\SecurityApp.Models.dll
 C:\Users\Андрей\Downloads\SecurityApp\SecurityApp.Models\obj\Debug\SecurityApp.Models.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Models\bin\Debug\SecurityApp.Models.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Models\bin\Debug\SecurityApp.Models.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Models\obj\Debug\SecurityApp.Models.csprojResolveAssemblyReference.cache
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Models\obj\Debug\SecurityApp.Models.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.Models\obj\Debug\SecurityApp.Models.pdb

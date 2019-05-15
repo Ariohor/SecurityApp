@@ -79,3 +79,41 @@ C:\Users\Андрей\Downloads\SecurityApp\SecurityApp\obj\Debug\SecurityApp.pd
 C:\Users\Андрей\Downloads\SecurityApp\SecurityApp\obj\Debug\MyMessageBox.g.cs
 C:\Users\Андрей\Downloads\SecurityApp\SecurityApp\obj\Debug\MyMessageBox.baml
 C:\Users\Андрей\Downloads\SecurityApp\SecurityApp\bin\Debug\SecurityApp.Services.dll.config
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\SecurityApp.exe.config
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\SecurityApp.exe
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\SecurityApp.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\SecurityApp.exe
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\SecurityApp.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\DataAccess.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\EntityFramework.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\SecurityApp.Models.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\SecurityApp.Services.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\ShowMeTheXAML.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\DataAccess.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\SecurityApp.Models.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\SecurityApp.Services.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\EntityFramework.xml
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\SecurityApp.UI.csprojResolveAssemblyReference.cache
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\MainWindow.g.cs
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\MyMessageBox.g.cs
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\RegistrationWindow.g.cs
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\App.g.cs
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\SecurityApp_MarkupCompile.cache
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\SecurityApp_MarkupCompile.lref
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\App.baml
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\MainWindow.baml
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\MyMessageBox.baml
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\RegistrationWindow.baml
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\SecurityApp.g.resources
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\SecurityApp.Properties.Resources.resources
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp\obj\Debug\SecurityApp.UI.csproj.GenerateResource.Cache

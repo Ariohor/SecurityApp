@@ -37,3 +37,20 @@ C:\Users\Андрей\Downloads\SecurityApp\DataAccess\obj\Debug\SecurityApp.Dat
 C:\Users\Андрей\Downloads\SecurityApp\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\Андрей\Downloads\SecurityApp\DataAccess\obj\Debug\DataAccess.pdb
 C:\Users\Андрей\Downloads\SecurityApp\DataAccess\bin\Debug\SecurityApp.Services.dll.config
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\DataAccess.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\SecurityApp.Models.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\SecurityApp.Services.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\SecurityApp.Models.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\SecurityApp.Services.pdb
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\obj\Debug\SecurityApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\obj\Debug\DataAccess.dll
+C:\Users\PBSOFT-2\Documents\Visual Studio 2015\Projects\git\SecurityApp\SecurityApp.DataAccess\obj\Debug\DataAccess.pdb
